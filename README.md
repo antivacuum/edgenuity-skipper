@@ -1,6 +1,6 @@
 # edgenuity-skipper
 
-This javascript code when injected into Edgenuity (on a video page) will automatically play each video back to back, (basically autoplay)
+This JavaScript code when injected into Edgenuity (on a video page) will automatically play each video back to back, (basically autoplay)
 # Installation
 To load this, go into a lesson and paste this into the console:
 ```javascript
