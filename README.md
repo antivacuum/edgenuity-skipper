@@ -17,5 +17,5 @@ Bookmark version (Drag into bookmarks bar, click to activate): <a href='javascri
 With shift+\ you can access the overlay where you can configure the settings
 
 # Source
-Source code found: [here](https://github.com/webmsgr/edgenuity-skipper/blob/main/src/skipper.js)
+Source code found: [here](https://github.com/antivacuum/edgenuity-skipper/blob/main/src/skipper.js)
 
